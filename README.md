@@ -13,5 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-![Telegram Bots](https://img.shields.io/badge/TelegramBots-black?logo=telegram)
-![FrontEnd](https://img.shields.io/badge/FrontEnd-green) ![Javascript](https://img.shields.io/badge/Javascript-black?style=flat&logo=javascript) ![Express](https://img.shields.io/badge/Express-black?style=flat&logo=express) ![React](https://img.shields.io/badge/React-black?style=flat&logo=React)
+![Telegram Bots](https://img.shields.io/badge/TelegramBots-pink?logo=telegram)
+![FrontEnd](https://img.shields.io/badge/FrontEnd-green)
+![Javascript](https://img.shields.io/badge/Javascript-limon?style=flat&logo=javascript)
+![Express](https://img.shields.io/badge/Express-grey?style=flat&logo=express)
+![React](https://img.shields.io/badge/React-red?style=flat&logo=React)
