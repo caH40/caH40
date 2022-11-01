@@ -12,3 +12,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
+
+![Telegram Bots](https://img.shields.io/badge/TelegramBots-black?logo=telegram)
+![FrontEnd](https://img.shields.io/badge/FrontEnd-green) ![Javascript](https://img.shields.io/badge/Javascript-black?style=flat&logo=javascript) ![Express](https://img.shields.io/badge/Express-black?style=flat&logo=express) ![React](https://img.shields.io/badge/React-black?style=flat&logo=React)
