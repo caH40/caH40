@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-![Telegram Bots](https://img.shields.io/badge/TelegramBots-blue?logo=telegram)
-![FrontEnd](https://img.shields.io/badge/CSS3-red?logo=css3)
-![FrontEnd](https://img.shields.io/badge/HTML5-blue?logo=html5)
-![FrontEnd](https://img.shields.io/badge/MongoDB-yellow?logo=MongoDB)
-![FrontEnd](https://img.shields.io/badge/NodeJs-black?logo=node.js)
-![Javascript](https://img.shields.io/badge/Javascript-limon?style=flat&logo=javascript)
-![Express](https://img.shields.io/badge/Express-grey?style=flat&logo=express)
-![React](https://img.shields.io/badge/React-red?style=flat&logo=React)
+![Telegram Bots](https://img.shields.io/badge/TelegramBots-090909?logo=telegram)
+![FrontEnd](https://img.shields.io/badge/CSS3-090909?logo=css3)
+![FrontEnd](https://img.shields.io/badge/HTML5-090909?logo=html5)
+![Javascript](https://img.shields.io/badge/Javascript-090909?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/React-090909?style=flat&logo=React)
+![FrontEnd](https://img.shields.io/badge/NodeJs-090909?logo=node.js)
+![Express](https://img.shields.io/badge/Express-090909?style=flat&logo=express)
+![FrontEnd](https://img.shields.io/badge/MongoDB-090909?logo=MongoDB)
