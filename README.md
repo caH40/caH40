@@ -13,11 +13,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-![Telegram Bots](https://img.shields.io/badge/TelegramBots-090909?logo=telegram)
-![FrontEnd](https://img.shields.io/badge/CSS3-090909?logo=css3)
-![FrontEnd](https://img.shields.io/badge/HTML5-090909?logo=html5)
-![Javascript](https://img.shields.io/badge/Javascript-090909?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/React-090909?style=flat&logo=React)
-![FrontEnd](https://img.shields.io/badge/NodeJs-090909?logo=node.js)
-![Express](https://img.shields.io/badge/Express-090909?style=flat&logo=express)
-![FrontEnd](https://img.shields.io/badge/MongoDB-090909?logo=MongoDB)
+### Languages and Tools
+
+![Telegram Bots](https://img.shields.io/badge/TelegramBot-2ab6fc?logo=telegram)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3)
+![HTML5](https://img.shields.io/badge/HTML5-6b1700?logo=html5)
+![Javascript](https://img.shields.io/badge/Javascript-a7950d?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/React-025985?style=flat&logo=React)
+![NodeJS](https://img.shields.io/badge/NodeJs-5B4638?logo=node.js)
+![Express](https://img.shields.io/badge/Express-173B3F?style=flat&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-cdffe8?logo=MongoDB)
+
+### Follow me
+
+[![ВКонтакте](https://img.shields.io/badge/TelegramBot-0077FF?logo=vk)](https://vk.com/cah40yc)
+[![Telegram](https://img.shields.io/badge/Telegram-2ab6fc?logo=telegram)](https://vk.com/cah40yc)
