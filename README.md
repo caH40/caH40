@@ -1,4 +1,4 @@
-https://github.com/caH40/caH40/blob/main/assets/edge.jpg![Header](./assets/edgeslime.jpg)
+![Header](https://github.com/caH40/caH40/blob/main/assets/edge.jpg)
 
 <!-- **caH40/caH40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
