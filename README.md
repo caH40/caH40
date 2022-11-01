@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 ### Languages and Tools
 
-![Telegram Bots](https://img.shields.io/badge/TelegramBot-2ab6fc?logo=telegram)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3)
+![Telegram Bots](https://img.shields.io/badge/TelegramBot-126a96?logo=telegram)
 ![HTML5](https://img.shields.io/badge/HTML5-6b1700?logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3)
 ![Javascript](https://img.shields.io/badge/Javascript-a7950d?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/React-025985?style=flat&logo=React)
 ![NodeJS](https://img.shields.io/badge/NodeJs-5B4638?logo=node.js)
@@ -27,4 +27,8 @@ Here are some ideas to get you started:
 ### Follow me
 
 [![ВКонтакте](https://img.shields.io/badge/TelegramBot-0077FF?logo=vk)](https://vk.com/cah40yc)
-[![Telegram](https://img.shields.io/badge/Telegram-2ab6fc?logo=telegram)](https://vk.com/cah40yc)
+[![Telegram](https://img.shields.io/badge/Telegram-126a96?logo=telegram)](https://t.me/Aleksandr_BV)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caH40&layout=compact&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caH40&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
