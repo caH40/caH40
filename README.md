@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-### Languages and Tools
+### 💼 Skills
 
 ![Telegram Bots](https://img.shields.io/badge/TelegramBot-126a96?logo=telegram)
 ![HTML5](https://img.shields.io/badge/HTML5-6b1700?logo=html5)
@@ -24,10 +24,12 @@ Here are some ideas to get you started:
 ![Express](https://img.shields.io/badge/Express-173B3F?style=flat&logo=express)
 ![MongoDB](https://img.shields.io/badge/MongoDB-cdffe8?logo=MongoDB)
 
-### Follow me
+### 🤝 Follow me
 
-[![ВКонтакте](https://img.shields.io/badge/TelegramBot-0077FF?logo=vk)](https://vk.com/cah40yc)
+[![ВКонтакте](https://img.shields.io/badge/ВКонтакте-0077FF?logo=vk)](https://vk.com/cah40yc)
 [![Telegram](https://img.shields.io/badge/Telegram-126a96?logo=telegram)](https://t.me/Aleksandr_BV)
+
+### 📈 GitHub Readme Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caH40&layout=compact&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
