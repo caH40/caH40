@@ -29,6 +29,10 @@ Here are some ideas to get you started:
 [![ВКонтакте](https://img.shields.io/badge/ВКонтакте-0077FF?logo=vk)](https://vk.com/cah40yc)
 [![Telegram](https://img.shields.io/badge/Telegram-126a96?logo=telegram)](https://t.me/Aleksandr_BV)
 
+###  📋 projects
+[сайт bike-caucasus](https://bike-caucasus.ru/)
+[Телеграм-бот создание велозаездов](https://t.me/MeetUpBikeBot)
+
 ### 📈 GitHub Readme Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caH40&layout=compact&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
