@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3)
 ![Javascript](https://img.shields.io/badge/Javascript-a7950d?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/React-025985?style=flat&logo=React)
+![Redux](https://img.shields.io/badge/Redux-764abc?style=flat&logo=Redux)
+![Webpack](https://img.shields.io/badge/Webpack-2b3a42?style=flat&logo=Webpack)
 ![NodeJS](https://img.shields.io/badge/NodeJs-5B4638?logo=node.js)
 ![Express](https://img.shields.io/badge/Express-173B3F?style=flat&logo=express)
 ![MongoDB](https://img.shields.io/badge/MongoDB-cdffe8?logo=MongoDB)
@@ -38,12 +40,17 @@ Here are some ideas to get you started:
 - [Телеграм-бот](https://t.me/ZwiftRaceInfo_bot) для заездов в Zwift от команды
   [KOM-on](https://t.me/komon_zwift)
 - [Телеграм-бот](https://github.com/caH40/botprice) мониторинг цен на выбранные велокомпоненты с
-  разных сайтовп
+  разных сайтов
 
 ### 📋 Test tasks
 
 - [Калькулятор](https://cah40.github.io/Calculator-for-Sendsay/)
 - [Верстка](https://cah40.github.io/edita/)
+
+### 🌱 I’m currently learning:
+
+- React
+- Redux
 
 ### 📈 GitHub Readme Stats
 
