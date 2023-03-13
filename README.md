@@ -29,9 +29,21 @@ Here are some ideas to get you started:
 [![ВКонтакте](https://img.shields.io/badge/ВКонтакте-0077FF?logo=vk)](https://vk.com/cah40yc)
 [![Telegram](https://img.shields.io/badge/Telegram-126a96?logo=telegram)](https://t.me/Aleksandr_BV)
 
-###  📋 projects
-[сайт bike-caucasus](https://bike-caucasus.ru/)
-[Телеграм-бот создание велозаездов](https://t.me/MeetUpBikeBot)
+### 📋 Projects
+
+- [Сайт bike-caucasus](https://bike-caucasus.ru/) велосипедные маршруты по Кавказу
+- [Телеграм-бот](https://t.me/MeetUpBikeBot) создание велозаездов для канала
+  https://t.me/meetupkmv
+- [Телеграм-бот](https://t.me/Black_CurranT_Bot) с полезной информацией для велозаездов
+- [Телеграм-бот](https://t.me/ZwiftRaceInfo_bot) для заездов в Zwift от команды
+  [KOM-on](https://t.me/komon_zwift)
+- [Телеграм-бот](https://github.com/caH40/botprice) мониторинг цен на выбранные велокомпоненты с
+  разных сайтовп
+
+### 📋 Test tasks
+
+- [Калькулятор](https://cah40.github.io/Calculator-for-Sendsay/)
+- [Верстка](https://cah40.github.io/edita/)
 
 ### 📈 GitHub Readme Stats
 
