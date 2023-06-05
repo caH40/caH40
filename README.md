@@ -39,15 +39,15 @@ Here are some ideas to get you started:
 - [Телеграм-бот](https://t.me/Black_CurranT_Bot) с полезной информацией для велозаездов
 - [Телеграм-бот](https://t.me/ZwiftRaceInfo_bot) для заездов в Zwift от команды
   [KOM-on](https://t.me/komon_zwift)
-- [Сайт zwiftpower.ru](https://zwiftpower.ru/) для администрирования и управления таблицами
-  результатов в боте ZwiftRaceInfo_bot [KOM-on](https://t.me/komon_zwift)
+- [Сайт zwiftpower.ru](https://zwiftpower.ru/) анонсы, результаты заездов российского сообщества
+  в Звифт, администрирование и управление таблицамив боте ZwiftRaceInfo_bot
+  [KOM-on](https://t.me/komon_zwift)
 - [Телеграм-бот](https://github.com/caH40/botprice) мониторинг цен на выбранные велокомпоненты с
   разных сайтов
 
 ### 📋 Test tasks
 
 - [Калькулятор](https://cah40.github.io/Calculator-for-Sendsay/)
-- [Верстка](https://cah40.github.io/edita/)
 
 ### 🔭 I’m currently working on:
 
