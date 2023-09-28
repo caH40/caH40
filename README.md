@@ -1,17 +1,6 @@
 ![Header](assets/edgeslime.jpg)
 
-<!-- **caH40/caH40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+<!-- **caH40/caH40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 ### 💼 Skills
 
@@ -21,7 +10,7 @@ Here are some ideas to get you started:
 ![Javascript](https://img.shields.io/badge/Javascript-a7950d?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/React-025985?style=flat&logo=React)
 ![Redux](https://img.shields.io/badge/Redux-764abc?style=flat&logo=Redux)
-![Webpack](https://img.shields.io/badge/Webpack-2b3a42?style=flat&logo=Webpack)
+![Vite](https://img.shields.io/badge/Vite-ff9d40?style=flat&logo=Vite)
 ![NodeJS](https://img.shields.io/badge/NodeJs-5B4638?logo=node.js)
 ![Express](https://img.shields.io/badge/Express-173B3F?style=flat&logo=express)
 ![MongoDB](https://img.shields.io/badge/MongoDB-cdffe8?logo=MongoDB)
@@ -33,15 +22,13 @@ Here are some ideas to get you started:
 
 ### 📋 Projects
 
-- [Сайт bike-caucasus](https://bike-caucasus.ru/) велосипедные маршруты по Кавказу
+- [Сайт zwiftpower.ru](https://zwiftpower.ru/) анонсы, результаты заездов российского сообщества
+  в Звифт
+- [Сайт bike-caucasus.ru](https://bike-caucasus.ru/) велосипедные маршруты по Кавказу
 - [Телеграм-бот](https://t.me/MeetUpBikeBot) создание велозаездов для канала
   https://t.me/meetupkmv
 - [Телеграм-бот](https://t.me/Black_CurranT_Bot) с полезной информацией для велозаездов
-- [Телеграм-бот](https://t.me/ZwiftRaceInfo_bot) для заездов в Zwift от команды
-  [KOM-on](https://t.me/komon_zwift)
-- [Сайт zwiftpower.ru](https://zwiftpower.ru/) анонсы, результаты заездов российского сообщества
-  в Звифт, администрирование и управление таблицамив боте ZwiftRaceInfo_bot
-  [KOM-on](https://t.me/komon_zwift)
+  https://t.me/Black_CurranT_Bot
 - [Телеграм-бот](https://github.com/caH40/botprice) мониторинг цен на выбранные велокомпоненты с
   разных сайтов
 
