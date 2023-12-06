@@ -1,19 +1,18 @@
-![Header](assets/edgeslime.jpg)
-
-<!-- **caH40/caH40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+<!-- ![Header](assets/edgeslime.jpg) -->
 
 ### 💼 Skills
 
-![Telegram Bots](https://img.shields.io/badge/TelegramBot-126a96?logo=telegram)
-![HTML5](https://img.shields.io/badge/HTML5-6b1700?logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3)
-![Javascript](https://img.shields.io/badge/Javascript-a7950d?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/React-025985?style=flat&logo=React)
 ![Redux](https://img.shields.io/badge/Redux-764abc?style=flat&logo=Redux)
+![Javascript](https://img.shields.io/badge/Javascript-a7950d?style=flat&logo=javascript)
+![Typescript](https://img.shields.io/badge/Typescript-7AB2FF?style=flat&logo=typescript)
+![HTML5](https://img.shields.io/badge/HTML5-6b1700?logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3)
 ![Vite](https://img.shields.io/badge/Vite-ff9d40?style=flat&logo=Vite)
 ![NodeJS](https://img.shields.io/badge/NodeJs-5B4638?logo=node.js)
 ![Express](https://img.shields.io/badge/Express-173B3F?style=flat&logo=express)
 ![MongoDB](https://img.shields.io/badge/MongoDB-cdffe8?logo=MongoDB)
+![Telegram Bots](https://img.shields.io/badge/TelegramBot-126a96?logo=telegram)
 
 ### 🤝 Follow me
 
@@ -42,9 +41,11 @@
 
 ### 🌱 I’m currently learning:
 
+- NextJs
+- Tailwind
 - TypeScript
-- React
-- Redux
+
+
 
 ### 📈 GitHub Readme Stats
 
