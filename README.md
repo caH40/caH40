@@ -1,4 +1,11 @@
 <link rel="stylesheet" type="text/css" href="styles.css">
+<style>
+  /* Убираем подчеркивание у ссылок */
+  a {
+    text-decoration: none;
+    color: #0366d6; /* Цвет ссылок, можно адаптировать под ваши нужды */
+  }
+</style>
 
 <!-- ![Header](assets/edgeslime.jpg) -->
 
@@ -19,8 +26,8 @@
 
 ### 🤝 Follow me
 
-[![ВКонтакте](https://img.shields.io/badge/ВКонтакте-0077FF?logo=vk)](https://vk.com/cah40yc)
-[![Telegram](https://img.shields.io/badge/Telegram-126a96?logo=telegram)](https://t.me/Aleksandr_BV)
+[![ВКонтакте](https://img.shields.io/badge/ВКонтакте-0077FF?logo=vk)](https://vk.com/cah40yc)<!--style="text-decoration: none;"-->
+[![Telegram](https://img.shields.io/badge/Telegram-126a96?logo=telegram)](https://t.me/Aleksandr_BV)<!--style="text-decoration: none;"-->
 
 ### 📋 Projects
 
