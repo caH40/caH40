@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="styles.css">
+
 <!-- ![Header](assets/edgeslime.jpg) -->
 
 ### 💼 Skills
