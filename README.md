@@ -4,6 +4,7 @@
 
 ![React](https://img.shields.io/badge/React-025985?style=flat&logo=React)
 ![Redux](https://img.shields.io/badge/Redux-764abc?style=flat&logo=Redux)
+![Next](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-a7950d?style=flat&logo=javascript)
 ![Typescript](https://img.shields.io/badge/Typescript-7AB2FF?style=flat&logo=typescript)
 ![HTML5](https://img.shields.io/badge/HTML5-6b1700?logo=html5)
@@ -28,21 +29,19 @@
   https://t.me/meetupkmv
 - [Телеграм-бот](https://t.me/Black_CurranT_Bot) с полезной информацией для велозаездов
   https://t.me/Black_CurranT_Bot
-- [Телеграм-бот](https://github.com/caH40/botprice) мониторинг цен на выбранные велокомпоненты с
-  разных сайтов
 
-### 📋 Test tasks
 
-- [Калькулятор](https://cah40.github.io/Calculator-for-Sendsay/)
+<!-- ### 📋 Test tasks
+
+- [Калькулятор](https://cah40.github.io/Calculator-for-Sendsay/) -->
 
 ### 🔭 I’m currently working on:
 
-- развитие проекта [zwiftpower.ru](https://zwiftpower.ru/)
+- развитие проекта [bike-caucasus.ru](https://bike-caucasus.ru/)
 
 ### 🌱 I’m currently learning:
 
 - NextJs
-- Tailwind
 - TypeScript
 
 
